@@ -1,10 +1,5 @@
 {
   "name": "solid-quickstart",
-  "scripts": {
-    "dev": "solid-start dev",
-    "build": "solid-start build",
-    "start": "solid-start start"
-  },
   "type": "module",
   "devDependencies": {
     "cypress": "^10.11.0",
@@ -20,6 +15,6 @@
     "undici": "^5.10.0"
   },
   "engines": {
-    "node": ">=16"
+    "node": "==17"
   }
 }
